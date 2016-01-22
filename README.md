@@ -40,4 +40,4 @@ More to come...
 
 
 ### Acknowledgements
-Special thanks to fellow Huger David Gómez (https://github.com/davegomez/) for just about everything.
+Special thanks to fellow Huger Dave Gómez (https://github.com/davegomez/) for just about everything.
