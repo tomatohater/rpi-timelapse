@@ -1,4 +1,4 @@
-# Create a time lapse videos with a Raspberry Pi
+# Create time lapse videos with a Raspberry Pi
 
 Use `motion` on a Raspberry Pi to record time lapse videos.
 
