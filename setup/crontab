@@ -1,0 +1,2 @@
+* * * * * /home/pi/timelapse/scripts/verify.sh
+@reboot /home/pi/timelapse/scripts/verify.sh
